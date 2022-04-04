@@ -1,0 +1,2 @@
+cd Game
+DOOM2
