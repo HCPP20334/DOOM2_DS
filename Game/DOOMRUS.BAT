@@ -1,0 +1,1 @@
+doom2.exe -file sai.wad
